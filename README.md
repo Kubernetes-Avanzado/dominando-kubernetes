@@ -1,2 +1,2 @@
-# dominando-kubernetes
-dominando-kubernetes
+# kubernetes-avanzados
+kubernetes-avanzados
